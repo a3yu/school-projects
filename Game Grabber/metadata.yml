@@ -1,0 +1,12 @@
+---
+:id: 101389580
+:submitters:
+- :name: Aedin Yu
+  :email: yu000694@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-19 23:51:53.087148000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-19 15:51:53.087148000 Z
+:status: processed
+:score: 83.0
